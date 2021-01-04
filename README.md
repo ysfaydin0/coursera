@@ -13,4 +13,4 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2](https://ysfaydin0.github.io/coursera/module2-solution/index.html)
+* [Module 2 Solution](https://ysfaydin0.github.io/coursera/module2-solution/index.html)
