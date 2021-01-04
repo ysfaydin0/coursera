@@ -1,6 +1,4 @@
 # Coursera
-This is the repository for the HTML, CSS and JavaScript Course by John Hopkins University on Coursera.
-
 HTML CSS & Javascript for Webdevelopers
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
