@@ -6,7 +6,7 @@ This repository contains all of the source code used in the course called HTML, 
 # Assignments :
 
 * Module-1 - Quiz 
-* [Module 2](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+* [Module 2 Coding Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 * Module-3 - Coding
 * Module-4 - Coding
 * Module-5 - Coding
