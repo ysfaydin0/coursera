@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color:  #1E3932; 
+    background-color:  #1E3932;
+    color: white;
 }
 
 #ourmenu {
@@ -13,13 +14,6 @@ body {
     margin-top: 15px;
     margin-bottom: 0;
     color: white;
-}
-
-.navbar.navbar-expand-lg.navbar-light.navbar-brand a {
-    padding-left: 15px;
-    font-size: 2em;
-    color: white;
-    text-weight: bold;
 }
 
 .navbar-nav {
