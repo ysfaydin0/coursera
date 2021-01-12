@@ -15,7 +15,7 @@ body {
     color: white;
 }
 
-.navbar-brand {
+#title {
     padding-left: 15px;
     font-size: 2em;
     color: white;
