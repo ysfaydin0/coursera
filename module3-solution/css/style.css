@@ -15,6 +15,10 @@ body {
     color: white;
 }
 
+.navbar-brand {
+    font-size: 2em;
+}
+
 .navbar-nav {
     text-align: center;
     margin-top: 5px;
