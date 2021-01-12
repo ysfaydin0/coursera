@@ -15,7 +15,7 @@ body {
     color: white;
 }
 
-#title {
+.navbar.navbar-expand-lg.navbar-light a {
     padding-left: 15px;
     font-size: 2em;
     color: white;
