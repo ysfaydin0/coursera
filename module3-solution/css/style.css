@@ -17,6 +17,9 @@ body {
 
 .navbar-brand {
     padding-left: 15px;
+    font-size: 2em;
+    color: white;
+    text-weight: bold;
 }
 
 .navbar-nav {
