@@ -13,8 +13,8 @@ This repository contains all of the source code used in the course called HTML, 
 <strong> Status: passed</strong>
 * [Module 4 Coding Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
   <strong> Status: passed</strong>
-* Module-5 - Coding
-<strong> Status: submitted</strong>
+* [Module 5 Coding Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-5.md)
+  <strong> Status: submitted</strong>
 
 # Outputs :
 
